@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Go to website</name>
+   <tag></tag>
+   <elementGuidId>8c4f2778-076e-4114-b689-7c43bd61bf12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='icp-save-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#icp-save-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8acc6623-afb9-48b5-bb49-4dd3abb7fe0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>icp-save-button</value>
+      <webElementGuid>6f31ef94-eafa-406c-bdd9-d8b2f35ad5a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button a-button-primary</value>
+      <webElementGuid>baf684f8-f81a-4c78-8c98-53a7f22ed6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                         Go to website
+                    </value>
+      <webElementGuid>43580bf0-bfce-4168-b0ff-f919e5f95ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-save-button&quot;)</value>
+      <webElementGuid>ffd4db7d-93b1-4a8c-bffe-a26e47cead31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='icp-save-button']</value>
+      <webElementGuid>de4f308f-e56e-4d1b-bc73-2e43cc999b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div/div/div[2]/div[3]/div[3]/span</value>
+      <webElementGuid>94b4f3fa-734e-450a-9034-258e702aa7dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>3fd7c9cf-7831-46fe-9fa9-13a5d1a6f9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'icp-save-button' and (text() = '
+                         Go to website
+                    ' or . = '
+                         Go to website
+                    ')]</value>
+      <webElementGuid>0bd1792b-de86-4bb6-9fdf-7676efd5ba19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_United States</name>
+   <tag></tag>
+   <elementGuidId>c9ce1d75-3525-4850-b26c-6416875fe369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='icp-dropdown']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>be56ed2b-b6ab-493d-a3d5-16095b439c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b845f058-90ce-46d0-bd37-fd3dd370297c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>icp-dropdown</value>
+      <webElementGuid>ddcd3c58-6e99-4368-a767-84fc56b2f6b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button a-button-dropdown a-spacing-top-medium-plus</value>
+      <webElementGuid>cc716d3e-b051-4115-a725-cdaa2bb0295d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c4e6d766-bed0-4886-9bde-90d509d3b9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    United States
+                            </value>
+      <webElementGuid>d447f41a-8463-40b3-bb7a-4186a8c0a79d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;a-container&quot;]/div[@class=&quot;a-row a-spacing-extra-large a-spacing-top-base a-ws-row&quot;]/div[@class=&quot;a-column a-span12 a-ws-span10 a-ws-spacing-none&quot;]/div[@class=&quot;a-row a-ws-row&quot;]/div[@class=&quot;a-column a-span12 a-ws-span7&quot;]/span[@class=&quot;a-dropdown-container&quot;]/span[@id=&quot;icp-dropdown&quot;]</value>
+      <webElementGuid>65515e8e-f59b-480c-b2a7-8a9cb638b919</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='icp-dropdown']</value>
+      <webElementGuid>372be023-a540-432f-b010-717ca972258c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div/div/div[2]/div[2]/div/span/span</value>
+      <webElementGuid>2976a1fd-bcbf-4165-9c85-5ee6b0ad76ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span</value>
+      <webElementGuid>4b4794bc-c341-45af-bed2-35cf0167a6c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'icp-dropdown' and (text() = '
+                                    United States
+                            ' or . = '
+                                    United States
+                            ')]</value>
+      <webElementGuid>481c4b20-f981-4773-a27c-9397066c2aca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

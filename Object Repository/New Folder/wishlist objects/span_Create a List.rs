@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create a List</name>
+   <tag></tag>
+   <elementGuidId>adb9243a-a864-4099-b163-1e4cf3b38268</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='atwl-dd-create-list']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-small.atwl-hz-vertical-align-middle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fada8c08-eab9-4955-9689-01e93afd7cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-small atwl-hz-vertical-align-middle</value>
+      <webElementGuid>8261a1de-f880-47cd-8fe6-dc8197bf95e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                                            Create a List                                                                    </value>
+      <webElementGuid>20c047f5-f048-4101-9caf-fd411c91d186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;atwl-dd-create-list&quot;)/span[@class=&quot;a-size-small atwl-hz-vertical-align-middle&quot;]</value>
+      <webElementGuid>a68e723e-7ddd-4719-8c02-62bb528800c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='atwl-dd-create-list']/span</value>
+      <webElementGuid>d52aadad-813c-4157-9ba1-10e127e99b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/div[2]/span/a/span</value>
+      <webElementGuid>cd79a5c9-5d79-400c-8baf-4a641aabe27c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '                                                            Create a List                                                                    ' or . = '                                                            Create a List                                                                    ')]</value>
+      <webElementGuid>c279cdc1-c187-4d94-8c71-643d373adc5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
